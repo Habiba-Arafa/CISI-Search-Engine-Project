@@ -20,7 +20,8 @@ Query Expansion: RM3 algorithm for improving query relevance.
 Ranking: BERT for re-ranking results based on semantic understanding.
 
 
-###  Features
+
+####  Features
 
 Document Retrieval: Retrieve relevant documents based on user queries using TF-IDF.
 
@@ -31,7 +32,8 @@ BERT-based Reranking: Enhances the relevance of search results using deep learni
 Interactive Web Interface: Users can interact with the search engine via a simple web interface.
 
 
-#### Acknowledgments
+
+##### Acknowledgments
 
 This project uses various libraries and tools including:
 
