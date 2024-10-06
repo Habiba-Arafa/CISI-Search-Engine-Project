@@ -5,7 +5,7 @@ The project is committed to the use of information retrieval and natural languag
 
 
 
-** Overview
+## Overview
 
 The CISI Search Engine combines several advanced techniques for processing and retrieving documents based on user queries. It incorporates:
 
