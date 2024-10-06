@@ -20,7 +20,7 @@ Query Expansion: RM3 algorithm for improving query relevance.
 Ranking: BERT for re-ranking results based on semantic understanding.
 
 
-### Features
+###  Features
 
 Document Retrieval: Retrieve relevant documents based on user queries using TF-IDF.
 
