@@ -21,7 +21,7 @@ Ranking: BERT for re-ranking results based on semantic understanding.
 
 
 
-####  Features
+## Features
 
 Document Retrieval: Retrieve relevant documents based on user queries using TF-IDF.
 
@@ -33,7 +33,7 @@ Interactive Web Interface: Users can interact with the search engine via a simpl
 
 
 
-##### Acknowledgments
+## Acknowledgments
 
 This project uses various libraries and tools including:
 
